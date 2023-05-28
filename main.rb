@@ -2,8 +2,6 @@ require 'watir'
 require 'webdrivers'
 require 'csv'
 
-TRYYYYYYY: https://stackoverflow.com/questions/73979692/ruby-until-loop-ending-too-soon
-
 class Scraper
     attr_accessor :browser
   
